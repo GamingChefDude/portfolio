@@ -30,14 +30,14 @@ body{
   /* If you want the content centered horizontally and vertically */
   #centered2 {
     position: absolute;
-    top: 950px;
+    top: 49%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
   }
   #centered1 {
     position: absolute;
-    top: 630px;
+    top: 32.5%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
