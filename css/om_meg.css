@@ -8,7 +8,7 @@
   
   /* Control the left side */
   .left {
-    height: 83%;
+    height: 81.3%;
     width: 50%;
     left: 0;
     background-color: gray;
@@ -17,7 +17,7 @@
   
   /* Control the right side */
   .right {
-    height: 83%;
+    height: 81.3%;
     width: 50%;
     right: 0%;
     background-color: lightgray;
