@@ -12,7 +12,7 @@
     left: 0;
     background-color: lightgray;
     height: 2000px;
-    width: 50%;
+    width: 947px;
   }
   
   /* Control the right side */
@@ -20,21 +20,21 @@
     right: 0;
     background-color: gray;
     height: 2000px;
-    width: 50%;
+    width: 947px;
   }
   
   /* If you want the content centered horizontally and vertically */
   #centered2 {
     position: absolute;
     top: 930px;
-    left: 50%;
+    left: 470px;
     transform: translate(-50%, -50%);
     text-align: center;
   }
   #centered1 {
     position: absolute;
     top: 620px;
-    left: 50%;
+    left: 470px;
     transform: translate(-50%, -50%);
     text-align: center;
   }
@@ -43,4 +43,3 @@
 
 
 
-  
