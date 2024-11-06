@@ -1,6 +1,4 @@
-body{
-  height: 1800px;
-}
+
 
 /* Split the screen in half */
 .split {
@@ -30,14 +28,14 @@ body{
   /* If you want the content centered horizontally and vertically */
   #centered2 {
     position: absolute;
-    top: 49%;
+    top: 930px;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
   }
   #centered1 {
     position: absolute;
-    top: 32.5%;
+    top: 620px;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;

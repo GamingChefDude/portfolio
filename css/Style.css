@@ -5,7 +5,6 @@ font-size: 20px;
 background-color: #fff;
 }
 
-
 header{
 
     background-color: #333;
@@ -14,9 +13,6 @@ header{
     text-align: center;
 
 }
-
-
-
 
 section{
 
@@ -69,7 +65,7 @@ width: 100%;
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 10px;
     text-decoration: none;
   }
   
@@ -82,6 +78,14 @@ width: 100%;
   }
   li a:hover:is(.active) {
     background-color: #007e50;
+  }
+  /* Add a gray right border to all list items, except the last item (last-child) */
+  li {
+    border-right: 3px solid #bbb;
+  }
+
+  li:last-child {
+    border-right: none;
   }
   
 
