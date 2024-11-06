@@ -1,4 +1,5 @@
 #img_Eskil{
+    transform: translate(0%, 10%);
     width: 350px;
     border-radius: 150px;
 }
