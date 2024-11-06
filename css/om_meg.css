@@ -8,8 +8,8 @@
   
   /* Control the left side */
   .left {
-    height: 81.3%;
-    width: 50%;
+    height: 775px;
+    width: 952px;
     left: 0;
     background-color: gray;
     color: white;
@@ -17,8 +17,8 @@
   
   /* Control the right side */
   .right {
-    height: 81.3%;
-    width: 50%;
+    height: 775px;
+    width: 952px;
     right: 0%;
     background-color: lightgray;
   }
@@ -26,7 +26,7 @@
   /* If you want the content centered horizontally and vertically */
   .centered {
     position: absolute;
-    top: 50%;
+    top: 400px;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -35,6 +35,6 @@
   /* Style the image inside the centered container, if needed */
   .centered img {
     width: 200px;
-    border-radius: 50%;
+    border-radius: 75px;
   }
  
