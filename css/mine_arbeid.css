@@ -2,7 +2,6 @@
 .split {
   position:absolute;
   z-index: 1;
-  top: 166px;
   margin: 8px
     
   }
@@ -13,6 +12,7 @@
     background-color: lightgray;
     height: 2000px;
     width: 48.5%;
+    top: 166px;
   }
   
   /* Control the right side */
@@ -21,6 +21,7 @@
     background-color: gray;
     height: 2000px;
     width: 48.5%;
+    top: 166px;
   }
   
   /* If you want the content centered horizontally and vertically */
