@@ -9,7 +9,7 @@
   /* Control the left side */
   .left {
     height: 775px;
-    width: 50%;
+    width: 48.5%;
     left: 0;
     background-color: gray;
     color: white;
@@ -18,7 +18,7 @@
   /* Control the right side */
   .right {
     height: 775px;
-    width: 50%;
+    width: 48.5%;
     right: 0%;
     background-color: lightgray;
   }
