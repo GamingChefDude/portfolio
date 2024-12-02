@@ -1,6 +1,6 @@
 /* Split the screen in half */
 .split {
-  position:absolute;
+  position: absolute;
   z-index: 1;
   margin: 8px
     
